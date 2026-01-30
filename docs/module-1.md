@@ -5,7 +5,7 @@
 
 ## Who is this for?
 
-This module is designed for **high school students** who are curious about astronomy and want to learn how astronomers actually study stars using **data**.
+This module is designed for **everyone** who is curious about astronomy and wants to learn how astronomers actually study stars using **data**.
 
 You do **not** need advanced mathematics.  
 You only need **curiosity** and a willingness to try.
