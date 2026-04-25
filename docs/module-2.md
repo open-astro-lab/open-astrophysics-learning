@@ -43,6 +43,7 @@ This is why astronomers often use **color indices** instead of directly measurin
 Color is easier to measure from observations.
 
 ---
+![Star Classification by Color](https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_960.jpg)
 
 ## Luminosity vs brightness (important distinction)
 
@@ -63,7 +64,7 @@ The HR Diagram is a graph that shows the relationship between:
 
 It is one of the most important tools in astronomy.
 
----
+![HR DIAGRAM](https://chandra.harvard.edu/edu/formal/stellar_ev/story/hr.jpg)
 
 ## Why is the HR Diagram powerful?
 
