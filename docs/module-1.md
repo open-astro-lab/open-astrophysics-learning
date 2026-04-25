@@ -6,8 +6,7 @@ This module is designed for **everyone** who is curious about astronomy and want
 You do **not** need advanced mathematics.  
 You only need **curiosity** and a willingness to try.
 
-![The night sky full of stars](<img width="625" height="350" alt="image" src="https://github.com/user-attachments/assets/26645fbd-ede4-4286-b139-4d9283c3156d" />
-)
+![The night sky full of stars](https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg)
 *The night sky — every point of light is a star waiting to be classified.*
 
 ---
@@ -18,8 +17,7 @@ In textbooks, we often memorize star types such as:
 - Supergiants  
 - White dwarfs  
 
-![Stellar spectral types OBAFGKM](<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/ff4a2ed3-c3db-42de-990c-18cda1714177" />
-)
+![Stellar spectral types OBAFGKM](https://apod.nasa.gov/apod/image/0105/obafgkm_noao.jpg)
 *Stellar spectra across different star types — each stripe of color is a star's chemical fingerprint.*
 
 But real astronomers do **not** memorize star types. Instead, they:
