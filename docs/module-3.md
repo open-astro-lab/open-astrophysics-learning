@@ -21,7 +21,7 @@ A **spectrum** is the result of spreading light into its component colors. A com
 
 In professional astronomy, spectra are usually displayed as **graphs** showing **Intensity vs. Wavelength**. These graphs allow astronomers to identify specific patterns that reveal the physical properties of celestial bodies.
 
-
+(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx1SKiRDgkACPy94tNa1otmz-wDFTFGQrfaw&s)
 
 ---
 
