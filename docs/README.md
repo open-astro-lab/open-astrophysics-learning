@@ -1,4 +1,4 @@
-# open-astrophysics-learning
+# Introduction to spectroscopy
 A beginner-friendly, Python-based introduction to stellar astrophysics and HR diagrams.
 Open Astrophysics Learning
 
