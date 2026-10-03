@@ -24,10 +24,10 @@ The focus is how astronomers actually work — combining physics, data, and comp
 
 | Module | Focus |
 |--------|--------|
-| [1 — Foundations & data](module-1.html) | Stars, properties, data thinking, HR context |
-| [2 — Classification & HR theory](module-2.html) | Color, temperature, luminosity, HR regions |
-| [3 — Spectroscopy](module-3.html) | Spectra, composition, Doppler shifts |
-| [Lab materials](lab.html) | Colab code, dataset, explanation video |
+| [1 — Foundations & data](module-1/) | Stars, properties, data thinking, HR context |
+| [2 — Classification & HR theory](module-2/) | Color, temperature, luminosity, HR regions |
+| [3 — Spectroscopy](module-3/) | Spectra, composition, Doppler shifts |
+| [Lab materials](lab/) | Colab code, dataset, explanation video |
 
 ## Outcomes
 
@@ -47,4 +47,4 @@ This course is hosted freely on GitHub Pages. Anyone with an internet connection
 
 ---
 
-[Begin Module 1 →](module-1.html){: .btn .btn-primary }
+[Begin Module 1 →](module-1/){: .btn .btn-primary }

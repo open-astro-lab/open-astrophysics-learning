@@ -60,4 +60,4 @@ Questions about certificates: **kripitasrivat@gmail.com**
 
 ---
 
-[← Back to Module 3](module-3.html) · [Course home](index.html)
+[← Back to Module 3](module-3/) · [Course home](./)

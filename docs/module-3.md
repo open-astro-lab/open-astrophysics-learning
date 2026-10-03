@@ -86,7 +86,7 @@ In the lab materials you will use **Python** to:
 
 ## What comes next
 
-Open the [lab materials](lab.html): Colab notebook, dataset, and video walkthrough.  
+Open the [lab materials](lab/): Colab notebook, dataset, and video walkthrough.  
 When you finish the lab work, submit the [graduation form](https://tally.so/r/PdVor1) for your certificate.
 
-[Open lab materials →](lab.html){: .btn .btn-primary }
+[Open lab materials →](lab/){: .btn .btn-primary }

@@ -166,4 +166,4 @@ Optional: email a short reflection or screenshot of your notes to **kripitasriva
 
 Then continue when ready.
 
-[Next: Module 3 — Spectroscopy →](module-3.html){: .btn .btn-primary }
+[Next: Module 3 — Spectroscopy →](module-3/){: .btn .btn-primary }
