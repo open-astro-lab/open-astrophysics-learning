@@ -20,8 +20,9 @@ This module is for **everyone** curious about astronomy who wants to see how ast
 
 You do **not** need advanced mathematics — only curiosity and a willingness to try.
 
-![The night sky full of stars](https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg)
-*The night sky — every point of light is a star waiting to be classified.*
+![Milky Way over the landscape](https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg)
+
+*The night sky — every point of light is a star waiting to be classified. (NASA APOD)*
 
 ---
 
@@ -35,7 +36,8 @@ In textbooks, we often memorize star types such as:
 - White dwarfs  
 
 ![Stellar spectral types OBAFGKM](https://apod.nasa.gov/apod/image/0105/obafgkm_noao.jpg)
-*Stellar spectra across different star types — each stripe of color is a star's chemical fingerprint.*
+
+*Stellar spectra across types O–M — each band is a chemical fingerprint of a star. (NOAO / NASA APOD)*
 
 Real astronomers do **not** only memorize labels. They:
 
@@ -57,7 +59,8 @@ By the end of this module, you will be able to:
 - Connect theory to **plotting an HR Diagram with Python** (continued in the lab)
 
 ![Hertzsprung-Russell Diagram](https://chandra.harvard.edu/edu/formal/stellar_ev/story/hr.jpg)
-*The HR Diagram — one of the most important graphs in astronomy. You will build on this idea with real data and code.*
+
+*The Hertzsprung–Russell diagram — temperature vs luminosity. You will use this idea with real data and code. (Chandra X-ray Center / NASA)*
 
 ---
 

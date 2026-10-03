@@ -50,7 +50,9 @@ A star’s color tells us about its surface temperature.
 
 Astronomers often use **color indices** because color is practical to measure from observations.
 
-![Star Classification by Color](https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_960.jpg)
+![Bright stars of different colors in the night sky](https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_960.jpg)
+
+*Bright stars show different colors — a practical clue to surface temperature. (NASA APOD)*
 
 ---
 
@@ -74,7 +76,9 @@ The HR Diagram relates:
 
 It is one of the most important tools in astronomy.
 
-![HR DIAGRAM](https://chandra.harvard.edu/edu/formal/stellar_ev/story/hr.jpg)
+![Annotated Hertzsprung-Russell diagram](https://chandra.harvard.edu/edu/formal/stellar_ev/story/hr.jpg)
+
+*Main sequence, giants, and white dwarfs occupy distinct regions of the HR diagram. (Chandra / NASA)*
 
 ---
 

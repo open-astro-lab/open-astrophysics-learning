@@ -31,7 +31,7 @@ Use this data with the notebook activities.
 
 ## 3. Video — code explanation
 
-[![Watch the code walkthrough](https://img.youtube.com/vi/P5ZtgFxChg0/maxresdefault.jpg)](https://youtu.be/P5ZtgFxChg0)
+[![Watch the code walkthrough](https://img.youtube.com/vi/P5ZtgFxChg0/hqdefault.jpg)](https://youtu.be/P5ZtgFxChg0)
 
 [Watch on YouTube →](https://youtu.be/P5ZtgFxChg0)
 
