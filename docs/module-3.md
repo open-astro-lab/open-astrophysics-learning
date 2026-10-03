@@ -28,11 +28,15 @@ Without spectroscopy, astronomy would be limited largely to images of brightness
 | **Absorption** | Dark lines on a continuous background | Light passing through cooler, thinner gas |
 | **Emission** | Bright lines at specific wavelengths on a dark background | Hot, low-density gas (e.g. some nebulae) |
 
-![Crab Nebula remnant](https://apod.nasa.gov/apod/image/1609/CrabNebula_Hubble_960.jpg)
+![Emission spectrum diagram]({{ site.baseurl }}/assets/images/spectrum_emission.svg)
+
+*Emission lines — bright lines at specific wavelengths (schematic).*
+
+![Crab Nebula remnant]({{ site.baseurl }}/assets/images/crab.jpg)
 
 *The Crab Nebula — glowing gas produces emission features that spectroscopy can measure. (Hubble / NASA APOD)*
 
-![Solar spectrum with absorption lines](https://apod.nasa.gov/apod/image/1507/SolarSpectrum_SSI_960.jpg)
+![Solar spectrum with absorption lines]({{ site.baseurl }}/assets/images/spectrum_absorption.svg)
 
 *The Sun’s spectrum shows dark absorption lines — chemical fingerprints in starlight. (NASA APOD / SSI)*
 
@@ -78,7 +82,7 @@ Spectroscopy helps determine:
 
 **Light is not only brightness — it is information.** Spectroscopy is how we read it.
 
-![Orion Nebula](https://apod.nasa.gov/apod/image/1910/M42_Hubble_960.jpg)
+![Orion Nebula]({{ site.baseurl }}/assets/images/orion.jpg)
 
 *The Orion Nebula — a nearby star-forming region whose light carries temperature and composition clues. (Hubble / NASA APOD)*
 

@@ -50,9 +50,9 @@ A star’s color tells us about its surface temperature.
 
 Astronomers often use **color indices** because color is practical to measure from observations.
 
-![Bright stars of different colors in the night sky](https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_960.jpg)
+![Star cluster with stars of different colors]({{ site.baseurl }}/assets/images/stars_cluster.jpg)
 
-*Bright stars show different colors — a practical clue to surface temperature. (NASA APOD)*
+*Stars in a cluster show different colors — a practical clue to surface temperature. (ESA/Hubble)*
 
 ---
 
@@ -76,7 +76,7 @@ The HR Diagram relates:
 
 It is one of the most important tools in astronomy.
 
-![Annotated Hertzsprung-Russell diagram](https://chandra.harvard.edu/edu/formal/stellar_ev/story/hr.jpg)
+![Annotated Hertzsprung-Russell diagram]({{ site.baseurl }}/assets/images/hr_diagram.jpg)
 
 *Main sequence, giants, and white dwarfs occupy distinct regions of the HR diagram. (Chandra / NASA)*
 
@@ -105,9 +105,9 @@ Those patterns help us infer:
 - Stars fuse hydrogen into helium  
 - Higher mass → hotter and brighter; lower mass → cooler and dimmer  
 
-![Open star cluster the Pleiades](https://apod.nasa.gov/apod/image/1606/Pleiades_Misti_960.jpg)
+![Star cluster used as an HR diagram laboratory]({{ site.baseurl }}/assets/images/stars_cluster.jpg)
 
-*The Pleiades — a nearby cluster of mainly main-sequence stars. Clusters help astronomers read the HR diagram. (NASA APOD)*
+*Star clusters act as natural laboratories for the HR diagram — many stars at a shared distance. (ESA/Hubble)*
 
 ### 2. Giants and supergiants
 

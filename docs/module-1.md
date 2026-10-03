@@ -20,7 +20,7 @@ This module is for **everyone** curious about astronomy who wants to see how ast
 
 You do **not** need advanced mathematics — only curiosity and a willingness to try.
 
-![Milky Way over the landscape](https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg)
+![Milky Way over the landscape]({{ site.baseurl }}/assets/images/milkyway.jpg)
 
 *The night sky — every point of light is a star waiting to be classified. (NASA APOD)*
 
@@ -35,9 +35,9 @@ In textbooks, we often memorize star types such as:
 - Supergiants  
 - White dwarfs  
 
-![Stellar spectral types OBAFGKM](https://apod.nasa.gov/apod/image/0105/obafgkm_noao.jpg)
+![Star cluster rich in many stellar types]({{ site.baseurl }}/assets/images/stars_cluster.jpg)
 
-*Stellar spectra across types O–M — each band is a chemical fingerprint of a star. (NOAO / NASA APOD)*
+*A star cluster contains stars of different temperatures and colors — the basis for classification. (ESA/Hubble)*
 
 Real astronomers do **not** only memorize labels. They:
 
@@ -58,7 +58,7 @@ By the end of this module, you will be able to:
 - See why **numerical data** matters for star classification  
 - Connect theory to **plotting an HR Diagram with Python** (continued in the lab)
 
-![Hertzsprung-Russell Diagram](https://chandra.harvard.edu/edu/formal/stellar_ev/story/hr.jpg)
+![Hertzsprung-Russell Diagram]({{ site.baseurl }}/assets/images/hr_diagram.jpg)
 
 *The Hertzsprung–Russell diagram — temperature vs luminosity. You will use this idea with real data and code. (Chandra X-ray Center / NASA)*
 

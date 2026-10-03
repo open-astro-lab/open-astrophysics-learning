@@ -11,7 +11,7 @@ permalink: /
 Learn stellar astrophysics the way astronomers actually work — with **real data**, **Python**, and scientific thinking.
 {: .fs-6 .fw-300 }
 
-![Whirlpool Galaxy M51](https://apod.nasa.gov/apod/image/1510/M51_HubbleGendler_960.jpg)
+![Whirlpool Galaxy M51]({{ site.baseurl }}/assets/images/whirlpool.jpg)
 
 *The Whirlpool Galaxy (M51) — structure and starlight that data and spectra help us understand. (Hubble / NASA APOD)*
 
