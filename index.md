@@ -1,25 +1,9 @@
-
 # Open Astrophysics Learning
 
-Welcome to **Open Astrophysics Learning**, a free, open-source course that teaches astrophysics through real data and Python.
+**Course site:** https://open-astro-lab.github.io/open-astrophysics-learning/
 
----
+This repository powers the free course website. Open the link above to learn.
 
-## 📘 Course Navigation
-
-Please follow the modules in order.
-
-👉 [Course Overview](README.md)
-
-👉 [Module 1: Foundations & Data Introduction](module-1.md)
-
-👉 [Module 2: Star Classification & H–R Diagram Theory](module-2.md)
-
-👉 [Module 3: Introduction to Spectroscopy](module-3.md)
-
-👉 [All Materials & Resources](materials.md)
-
----
-
-Start with the **Course Overview**, then proceed module by module.
-
+- Enroll: https://tally.so/r/xX75PJ
+- Certificate form: https://tally.so/r/PdVor1
+- Lab organization site: https://openastrophysicslab.wixsite.com/open-astro-physics-l
