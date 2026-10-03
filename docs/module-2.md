@@ -105,6 +105,10 @@ Those patterns help us infer:
 - Stars fuse hydrogen into helium  
 - Higher mass → hotter and brighter; lower mass → cooler and dimmer  
 
+![Open star cluster the Pleiades](https://apod.nasa.gov/apod/image/1606/Pleiades_Misti_960.jpg)
+
+*The Pleiades — a nearby cluster of mainly main-sequence stars. Clusters help astronomers read the HR diagram. (NASA APOD)*
+
 ### 2. Giants and supergiants
 
 - Very luminous; often cooler than the hottest main-sequence stars  
