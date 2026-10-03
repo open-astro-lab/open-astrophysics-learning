@@ -11,9 +11,9 @@ permalink: /
 Learn stellar astrophysics the way astronomers actually work — with **real data**, **Python**, and scientific thinking.
 {: .fs-6 .fw-300 }
 
-<img src="/open-astrophysics-learning/assets/images/whirlpool.jpg" alt="Whirlpool Galaxy M51" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
+![Whirlpool Galaxy M51](whirlpool.jpg)
 
-*The Whirlpool Galaxy (M51) — structure and starlight that data and spectra help us understand. (Hubble / NASA APOD)*
+*The Whirlpool Galaxy (M51). Credit: ESA/Hubble*
 
 [Start Module 1]({{ site.baseurl }}/module-1/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Course overview]({{ site.baseurl }}/overview/){: .btn .fs-5 .mb-4 .mb-md-0 }

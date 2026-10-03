@@ -18,6 +18,10 @@ nav_order: 5
 
 Without spectroscopy, astronomy would be limited largely to images of brightness and position. Spectroscopy turns light into **measurable information** about distant objects.
 
+![Deep field of distant galaxies](galaxy_deep.jpg)
+
+*Distant galaxies — their light carries composition and motion information through spectra. Credit: ESA/Hubble*
+
 ---
 
 ## Types of spectra (Kirchhoff’s laws)
@@ -28,17 +32,17 @@ Without spectroscopy, astronomy would be limited largely to images of brightness
 | **Absorption** | Dark lines on a continuous background | Light passing through cooler, thinner gas |
 | **Emission** | Bright lines at specific wavelengths on a dark background | Hot, low-density gas (e.g. some nebulae) |
 
-<img src="/open-astrophysics-learning/assets/images/spectrum_emission.svg" alt="Emission spectrum diagram" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
+![Emission spectrum diagram](spectrum_emission.png)
 
-*Emission lines — bright lines at specific wavelengths (schematic).*
+*Emission spectrum — bright lines at specific wavelengths (schematic teaching diagram).*
 
-<img src="/open-astrophysics-learning/assets/images/crab.jpg" alt="Crab Nebula remnant" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
+![Absorption spectrum diagram](spectrum_absorption.png)
 
-*The Crab Nebula — glowing gas produces emission features that spectroscopy can measure. (Hubble / NASA APOD)*
+*Absorption spectrum — dark lines on a continuous rainbow (schematic teaching diagram).*
 
-<img src="/open-astrophysics-learning/assets/images/spectrum_absorption.svg" alt="Solar spectrum with absorption lines" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
+![Crab Nebula](crab.jpg)
 
-*The Sun’s spectrum shows dark absorption lines — chemical fingerprints in starlight. (NASA APOD / SSI)*
+*The Crab Nebula — glowing gas produces emission features that spectroscopy can measure. Credit: ESA/Hubble*
 
 ---
 
@@ -82,9 +86,9 @@ Spectroscopy helps determine:
 
 **Light is not only brightness — it is information.** Spectroscopy is how we read it.
 
-<img src="/open-astrophysics-learning/assets/images/orion.jpg" alt="Orion Nebula" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
+![Orion Nebula](orion.jpg)
 
-*The Orion Nebula — a nearby star-forming region whose light carries temperature and composition clues. (Hubble / NASA APOD)*
+*The Orion Nebula — star-forming gas whose light encodes temperature and composition. Credit: ESA/Hubble*
 
 ---
 
