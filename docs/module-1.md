@@ -67,4 +67,4 @@ Star types are not arbitrary names. They emerge from **patterns in data** — te
 
 When you are ready, continue to Module 2 for the theory that makes the HR Diagram powerful.
 
-[Next: Module 2 — Star classification & HR theory →](module-2/){: .btn .btn-primary }
+[Next: Module 2 — Star classification & HR theory →]({{ site.baseurl }}/module-2/){: .btn .btn-primary }

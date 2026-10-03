@@ -11,8 +11,8 @@ permalink: /
 Learn stellar astrophysics the way astronomers actually work — with **real data**, **Python**, and scientific thinking.
 {: .fs-6 .fw-300 }
 
-[Start Module 1](module-1/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Course overview](overview/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Start Module 1]({{ site.baseurl }}/module-1/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Course overview]({{ site.baseurl }}/overview/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -55,10 +55,10 @@ By the end of this course you will be able to:
 
 Complete the modules **in order**. Each one builds on the last.
 
-1. [**Module 1 — Foundations & data**](module-1/) — Stars, data thinking, and your first HR ideas with Python context  
-2. [**Module 2 — Star classification & H–R theory**](module-2/) — Temperature, luminosity, and the structure of the HR diagram  
-3. [**Module 3 — Spectroscopy**](module-3/) — How light encodes composition, temperature, and motion  
-4. [**Lab materials — Code, data & video**](lab/) — Colab notebook, dataset, and walkthrough video  
+1. [**Module 1 — Foundations & data**]({{ site.baseurl }}/module-1/) — Stars, data thinking, and your first HR ideas with Python context  
+2. [**Module 2 — Star classification & H–R theory**]({{ site.baseurl }}/module-2/) — Temperature, luminosity, and the structure of the HR diagram  
+3. [**Module 3 — Spectroscopy**]({{ site.baseurl }}/module-3/) — How light encodes composition, temperature, and motion  
+4. [**Lab materials — Code, data & video**]({{ site.baseurl }}/lab/) — Colab notebook, dataset, and walkthrough video  
 
 ---
 
