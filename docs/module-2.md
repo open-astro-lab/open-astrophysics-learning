@@ -50,7 +50,7 @@ A star’s color tells us about its surface temperature.
 
 Astronomers often use **color indices** because color is practical to measure from observations.
 
-![Star cluster with stars of different colors]({{ site.baseurl }}/assets/images/stars_cluster.jpg)
+<img src="/open-astrophysics-learning/assets/images/stars_cluster.jpg" alt="Star cluster with stars of different colors" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
 
 *Stars in a cluster show different colors — a practical clue to surface temperature. (ESA/Hubble)*
 
@@ -76,7 +76,7 @@ The HR Diagram relates:
 
 It is one of the most important tools in astronomy.
 
-![Annotated Hertzsprung-Russell diagram]({{ site.baseurl }}/assets/images/hr_diagram.jpg)
+<img src="/open-astrophysics-learning/assets/images/hr_diagram.jpg" alt="Annotated Hertzsprung-Russell diagram" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
 
 *Main sequence, giants, and white dwarfs occupy distinct regions of the HR diagram. (Chandra / NASA)*
 
@@ -105,7 +105,7 @@ Those patterns help us infer:
 - Stars fuse hydrogen into helium  
 - Higher mass → hotter and brighter; lower mass → cooler and dimmer  
 
-![Star cluster used as an HR diagram laboratory]({{ site.baseurl }}/assets/images/stars_cluster.jpg)
+<img src="/open-astrophysics-learning/assets/images/stars_cluster.jpg" alt="Star cluster used as an HR diagram laboratory" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
 
 *Star clusters act as natural laboratories for the HR diagram — many stars at a shared distance. (ESA/Hubble)*
 

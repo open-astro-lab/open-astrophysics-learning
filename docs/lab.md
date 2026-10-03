@@ -13,7 +13,7 @@ This is the hands-on core of the course. Use the notebook and dataset together; 
 
 Run the code in your browser — no local install required.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aY3GTADhDe_25ZvperMt6EIqvYIWRxfH?usp=sharing)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />](https://colab.research.google.com/drive/1aY3GTADhDe_25ZvperMt6EIqvYIWRxfH?usp=sharing)
 
 **Important:** choose **File → Save a copy in Drive** before editing. Do not change the shared original file.
 
@@ -31,7 +31,7 @@ Use this data with the notebook activities.
 
 ## 3. Video — code explanation
 
-[![Watch the code walkthrough](https://img.youtube.com/vi/P5ZtgFxChg0/hqdefault.jpg)](https://youtu.be/P5ZtgFxChg0)
+[<img src="https://img.youtube.com/vi/P5ZtgFxChg0/hqdefault.jpg" alt="Watch the code walkthrough" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />](https://youtu.be/P5ZtgFxChg0)
 
 [Watch on YouTube →](https://youtu.be/P5ZtgFxChg0)
 

@@ -20,7 +20,7 @@ This module is for **everyone** curious about astronomy who wants to see how ast
 
 You do **not** need advanced mathematics — only curiosity and a willingness to try.
 
-![Milky Way over the landscape]({{ site.baseurl }}/assets/images/milkyway.jpg)
+<img src="/open-astrophysics-learning/assets/images/milkyway.jpg" alt="Milky Way over the landscape" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
 
 *The night sky — every point of light is a star waiting to be classified. (NASA APOD)*
 
@@ -35,7 +35,7 @@ In textbooks, we often memorize star types such as:
 - Supergiants  
 - White dwarfs  
 
-![Star cluster rich in many stellar types]({{ site.baseurl }}/assets/images/stars_cluster.jpg)
+<img src="/open-astrophysics-learning/assets/images/stars_cluster.jpg" alt="Star cluster rich in many stellar types" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
 
 *A star cluster contains stars of different temperatures and colors — the basis for classification. (ESA/Hubble)*
 
@@ -58,7 +58,7 @@ By the end of this module, you will be able to:
 - See why **numerical data** matters for star classification  
 - Connect theory to **plotting an HR Diagram with Python** (continued in the lab)
 
-![Hertzsprung-Russell Diagram]({{ site.baseurl }}/assets/images/hr_diagram.jpg)
+<img src="/open-astrophysics-learning/assets/images/hr_diagram.jpg" alt="Hertzsprung-Russell Diagram" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
 
 *The Hertzsprung–Russell diagram — temperature vs luminosity. You will use this idea with real data and code. (Chandra X-ray Center / NASA)*
 
